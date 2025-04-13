@@ -12,14 +12,14 @@ import {
 import { useState } from "react";
 
 const seatName = [
-  "青島",
-  "大野",
-  "川崎",
-  "小牧",
-  "橘",
-  "はぎわら",
-  "長谷川",
-  "吉川",
+  "ぴーちゃん",
+  "もるちゃん",
+  "だいやん",
+  "おこま",
+  "たちばなな",
+  "おはぎ",
+  "るかちゃん",
+  "きくちふうま",
 ];
 
 interface SeatAssignment {
